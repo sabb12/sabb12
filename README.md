@@ -4,4 +4,4 @@
 	
   </div>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,nodejs,notion)](https://skillicons.dev)
