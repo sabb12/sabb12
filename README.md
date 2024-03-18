@@ -1,5 +1,5 @@
 
-![cafePoeun]("https://github.com/sabb12/sabb12/assets/57868607/ffa1a657-0570-4369-b45e-1ec11edf32a0" width="200" height="400")
+![cafePoeun]("https://github.com/sabb12/sabb12/assets/57868607/ffa1a657-0570-4369-b45e-1ec11edf32a0" | width=100)
   
   <div align=center>
 	
