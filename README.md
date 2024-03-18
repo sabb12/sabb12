@@ -1,4 +1,4 @@
-<img src="https://github.com/sabb12/sabb12/assets/57868607/967218b3-be2e-4b8b-a472-103492ccd589" style="width: 100%; height: 300px">
+<img src="https://github.com/sabb12/sabb12/assets/57868607/967218b3-be2e-4b8b-a472-103492ccd589" style="width: 100%; height: 400px">
   
   <div align=center>
 	
