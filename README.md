@@ -1,5 +1,4 @@
-
-![cafePoeun](https://github.com/sabb12/sabb12/assets/57868607/ffa1a657-0570-4369-b45e-1ec11edf32a0?s=100)
+<img src="https://github.com/sabb12/sabb12/assets/57868607/967218b3-be2e-4b8b-a472-103492ccd589" style="width: 200px;">
   
   <div align=center>
 	
