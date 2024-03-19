@@ -7,6 +7,10 @@
 <h3>Craving - Motivation - Passion</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,nodejs,github,notion)](https://skillicons.dev)
+
+  Flag(Flags.Korea),
+  Flag(Flags.China),
+  Flag(Flags.united_states_of_america),
   </div>
 	
 
