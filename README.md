@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,nodejs,github,notion)](https://skillicons.dev)
 
 <img src="https://github.com/sabb12/sabb12/assets/57868607/33695b7d-2753-47a5-8c8d-484acdc795e7" style="border-radius: 10px, width: 48px; height: 48px">
-<img src="https://github.com/sabb12/sabb12/assets/57868607/520ab50c-c1c1-4255-82fe-c850c424e684" style="border-radius: 10px, width: 48px; height: 48px">
+<img src="https://github.com/sabb12/sabb12/assets/57868607/520ab50c-c1c1-4255-82fe-c850c424e684" style="border-radius: 10px, width: 30px; height: 30px">
 <img src="https://github.com/sabb12/sabb12/assets/57868607/693408cb-72fe-448e-b969-36dd3201c6be" style="border-radius: 10px, width: 48px; height: 48px">
 
   </div>
