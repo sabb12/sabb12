@@ -8,9 +8,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,nodejs,github,notion)](https://skillicons.dev)
 
-<img src="https://github.com/sabb12/sabb12/assets/57868607/33695b7d-2753-47a5-8c8d-484acdc795e7" style="width: 100%; height: 450px">
-<img src="https://github.com/sabb12/sabb12/assets/57868607/520ab50c-c1c1-4255-82fe-c850c424e684" style="width: 100%; height: 450px">
-<img src="https://github.com/sabb12/sabb12/assets/57868607/693408cb-72fe-448e-b969-36dd3201c6be" style="width: 100%; height: 450px">
+<img src="https://github.com/sabb12/sabb12/assets/57868607/33695b7d-2753-47a5-8c8d-484acdc795e7" style="borderRadius: 5px, width: 50px; height: 50px">
+<img src="https://github.com/sabb12/sabb12/assets/57868607/520ab50c-c1c1-4255-82fe-c850c424e684" style="borderRadius: 5px, width: 50px; height: 50px">
+<img src="https://github.com/sabb12/sabb12/assets/57868607/693408cb-72fe-448e-b969-36dd3201c6be" style="borderRadius: 5px, width: 50px; height: 50px">
 
   </div>
 	
