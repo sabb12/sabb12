@@ -16,6 +16,6 @@
 <img src="https://github.com/sabb12/sabb12/assets/57868607/650437ed-3068-4461-a0c3-06a1299885b6" alt="Chinese" style="width: 60px; height: 60px"/>
 
 <h3>Served</h3>
-<img src="https://github.com/sabb12/sabb12/assets/57868607/59ddefa8-001c-485d-b8ba-f6b555ba5e24" alt="marine"  >
+<img src="https://github.com/sabb12/sabb12/assets/57868607/59ddefa8-001c-485d-b8ba-f6b555ba5e24" alt="marine" style="width: 100px; height: 100px" >
   </div>
 	
