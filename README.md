@@ -17,9 +17,9 @@
 
 <h3>Military Service for Republic of Korea</h3>
 <img src="https://github.com/sabb12/sabb12/assets/57868607/59ddefa8-001c-485d-b8ba-f6b555ba5e24" alt="marine" style="width: 100px; height: 100px" >
-![snake gif](https://github.com/YOUR_USERNAME/sabb12/blob/output/github-contribution-grid-snake.gif)
   </div>
 	
+![snake gif](https://github.com/sabb12/sabb12/blob/output/github-contribution-grid-snake.gif)
 
 
 
