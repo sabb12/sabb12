@@ -20,6 +20,6 @@
 ![snake gif](https://github.com/sabb12/sabb12/blob/output/github-contribution-grid-snake.gif)
   </div>
 	
-
+![snake animation](https://github.com/sabb12/sabb12/blob/output/github-contribution-grid-snake2.svg)
 
 
