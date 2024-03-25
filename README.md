@@ -8,7 +8,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,nodejs,github,notion)](https://skillicons.dev)
 
-
 <h3>Language</h3>
 
 <img src="https://github.com/sabb12/sabb12/assets/57868607/5082eeb2-f89b-49ff-a333-1f82f22c8e85" alt="korea" style="width: 60px; height: 60px"/>
@@ -19,7 +18,3 @@
 <img src="https://github.com/sabb12/sabb12/assets/57868607/59ddefa8-001c-485d-b8ba-f6b555ba5e24" alt="marine" style="width: 100px; height: 100px" >
 
   </div>
-	
-![snake animation](https://github.com/sabb12/sabb12/blob/output/github-contribution-grid-snake2.svg)
-
-
