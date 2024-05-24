@@ -14,7 +14,4 @@
 <img src="https://github.com/sabb12/sabb12/assets/57868607/30a1e980-b55a-4c84-ba95-bc28a0543074" alt="United State"  style="width: 60px; height: 60px"/>
 <img src="https://github.com/sabb12/sabb12/assets/57868607/650437ed-3068-4461-a0c3-06a1299885b6" alt="Chinese" style="width: 60px; height: 60px"/>
 
-//<h3>Military Service for Republic of Korea</h3>
-//<img src="https://github.com/sabb12/sabb12/assets/57868607/59ddefa8-001c-485d-b8ba-f6b555ba5e24" alt="marine" style="width: 100px; height: 100px" >
-
   </div>
