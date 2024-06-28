@@ -1,5 +1,5 @@
 
-<h4>Tech Stack</h4>
+<h3>Tech Stack</h3>
 <div>
   
 ![js](https://img.shields.io/badge/html-F15128?style=for-the-badge&logo=html&logoColor=white)
