@@ -21,4 +21,7 @@
 ![js](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=React&logoColor=white)
 ![js](https://img.shields.io/badge/Nextjs-black?style=for-the-badge&logo=Nextjs&logoColor=white)
 ![js](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
-  </div>
+<br />
+![js](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
+![js](https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion&logoColor=white)
+</div>
