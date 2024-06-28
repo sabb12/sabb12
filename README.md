@@ -8,9 +8,9 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,nodejs,github,notion)](https://skillicons.dev)
 
 <h3>Language</h3>
-![js](https://img.shields.io/badge/english-black?style=for-the-badge&logo=english&logoColor=white)
 
-<h5></h5>
+
+<h5>Tech Stack</h5>
 <br />
 ![js](https://img.shields.io/badge/html-F15128?style=for-the-badge&logo=html&logoColor=white)
 ![js](https://img.shields.io/badge/css-2851f0?style=for-the-badge&logo=css&logoColor=white)
