@@ -1,6 +1,6 @@
 
-<div>
-  
+![sabb12's github stats](https://github-readme-stats.vercel.app/api?username=sabb12)
+
 
 ## Tech Stack
 
