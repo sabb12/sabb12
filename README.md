@@ -1,7 +1,8 @@
 
+
+
 <h3>Tech Stack</h3>
 <div>
-  
 ![js](https://img.shields.io/badge/html-F15128?style=for-the-badge&logo=html&logoColor=white)
 ![js](https://img.shields.io/badge/css-2851f0?style=for-the-badge&logo=css&logoColor=white)
 ![js](https://img.shields.io/badge/Sass-E55BA6?style=for-the-badge&logo=Sass&logoColor=white)
@@ -12,4 +13,11 @@
 <br />
 ![js](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 ![js](https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion&logoColor=white)
+</div>
+
+<h3>Language</h3>
+<div>
+## ![English](https://img.shields.io/badge/English-blue?style=for-the-badge&logo=github&logoColor=white)
+# ![English](https://img.shields.io/badge/English-blue?style=for-the-badge&logo=github&logoColor=white)
+![English](https://img.shields.io/badge/English-blue?style=for-the-badge&logo=github&logoColor=white)
 </div>
