@@ -1,6 +1,4 @@
-
-:raising_hand:
-# Sup! I"m HAGMIN YIM
+# <img src="https://github.com/sabb12/sabb12/assets/57868607/477642a4-3e1d-4a4c-84cc-40b9139711ea" alt="handsup" style="width: 80px;"> Sup! I'm HAGMIN YIM
 
 ```javascript
 const aboutMe = {
