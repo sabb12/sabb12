@@ -1,16 +1,5 @@
-  <div>
-  
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-	
-<h3>Craving - Motivation - Passion</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,nodejs,github,notion)](https://skillicons.dev)
-
-<h3>Language</h3>
-
-
-<h5>Tech Stack</h5>
+<h4>Tech Stack</h4>
 <br />
 ![js](https://img.shields.io/badge/html-F15128?style=for-the-badge&logo=html&logoColor=white)
 ![js](https://img.shields.io/badge/css-2851f0?style=for-the-badge&logo=css&logoColor=white)
@@ -22,4 +11,3 @@
 <br />
 ![js](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)
 ![js](https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion&logoColor=white)
-</div>
