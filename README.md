@@ -19,8 +19,6 @@
 <h3>Language</h3>
 <div>
 ## ![English](https://img.shields.io/badge/English-blue?style=for-the-badge&logo=github&logoColor=white)
-# ![English](https://img.shields.io/badge/English-blue?style=for-the-badge&logo=github&logoColor=white)
-![English](https://img.shields.io/badge/English-blue?style=for-the-badge&logo=github&logoColor=white)
 </div>
 
 </div>
