@@ -13,4 +13,8 @@
 <img src="https://github.com/sabb12/sabb12/assets/57868607/30a1e980-b55a-4c84-ba95-bc28a0543074" alt="United State"  style="width: 60px; height: 60px"/>
 <img src="https://github.com/sabb12/sabb12/assets/57868607/650437ed-3068-4461-a0c3-06a1299885b6" alt="Chinese" style="width: 60px; height: 60px"/>
 
+
+![js](https://img.shields.io/badge/html-F7DF1E?style=for-the-badge&logo=html&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+
   </div>
