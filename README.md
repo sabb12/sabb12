@@ -17,7 +17,7 @@
 <br>
 ## Language
 ![English](https://img.shields.io/badge/English-blue?style=for-the-badge&logo=✝&logoColor=white)
-![Chinese](https://img.shields.io/badge/English-red?style=for-the-badge&logo=✝&logoColor=white)
-![Korean](https://img.shields.io/badge/English-blue?style=for-the-badge&logo=✝&logoColor=white)
+![Chinese](https://img.shields.io/badge/Chinese-red?style=for-the-badge&logo=✝&logoColor=white)
+![Korean](https://img.shields.io/badge/Korean-blue?style=for-the-badge&logo=✝&logoColor=white)
 
 
