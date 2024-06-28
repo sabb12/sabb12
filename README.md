@@ -14,8 +14,8 @@
 <img src="https://github.com/sabb12/sabb12/assets/57868607/650437ed-3068-4461-a0c3-06a1299885b6" alt="Chinese" style="width: 60px; height: 60px"/>
 
 
-![js](https://img.shields.io/badge/html-orange?style=for-the-badge&logo=html&logoColor=white)
-![js](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=white)
+![js](https://img.shields.io/badge/html-F15128?style=for-the-badge&logo=html&logoColor=white)
+![js](https://img.shields.io/badge/css-2851f0?style=for-the-badge&logo=css&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![js](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=React&logoColor=white)
 
