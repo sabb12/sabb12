@@ -1,13 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=KEEP%20IT%20SIMPLE&fontSize=90" width="100%" />
-
-
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=220&section=header&text=KEEP%20IT%20SIMPLE&fontSize=90" width="100%" />
 
 # <img src="https://github.com/sabb12/sabb12/assets/57868607/477642a4-3e1d-4a4c-84cc-40b9139711ea" alt="handsup" style="width: 80px;"> Sup! I'm HAGMIN YIM
 
 ```javascript
 const aboutMe = {
     name: HagMin Yim,
-    age: 35,
     email: sabb0923@gmail.com,
     hobby: Coding all day long,
 }
@@ -38,6 +35,7 @@ const aboutMe = {
 ![ENGLISH](https://img.shields.io/badge/English-F4444E?style=for-the-badge&logo=✝&logoColor=white)
 ![CHINESE](https://img.shields.io/badge/Chinese-ff0000?style=for-the-badge&logo=✝&logoColor=white)
 ![KOREAN](https://img.shields.io/badge/Korean-0047AB?style=for-the-badge&logo=✝&logoColor=white)
+<br />
 <br />
 <img alt="hagMin's Stats" width="39%" src="https://github-readme-stats.vercel.app/api?username=sabb12&show_icons=true" />
 <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabb12&layout=compact" />
