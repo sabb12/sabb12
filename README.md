@@ -7,6 +7,7 @@ const aboutMe = {
     name: HagMin Yim,
     email: sabb0923@gmail.com,
     hobby: Coding all day long,
+    militaryService: Republic of Korea Marine Corps,
 }
 ```
 
