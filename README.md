@@ -13,12 +13,7 @@ const aboutMe = {
 
 
 영어, 중국어, 한국어를 능숙하게 구사하는 프론트엔드 개발자입니다. <br />
-어떤 일이든 포기하지 않고 꾸준히 노력하는 것이 제게 중요하다고 생각합니다. 이런 끈기와 인내심이 강하다는 말을 자주 듣습니다. 
-풀스택 개발자로 성장하기 위해 지속적으로 공부하고 있으며, 항상 새로운 도전에 적극적으로 도전하고 있습니다.
-
-I am a frontend developer proficient in English, Chinese, and Korean. I believe that perseverance and continuous effort are crucial in any endeavor, and I am often recognized for my tenacity and patience. I am consistently studying to grow into a full-stack developer and actively embrace new challenges with enthusiasm.
-
-我是一個能熟練使用英語、中文和韓語的前端開發人員。我認爲在任何事情上堅持不懈和持續努力是非常重要的，我經常被人稱讚有很強的毅力和耐心。爲了成長爲全棧開發人員，我在不斷學習，並且始終積極迎接新的挑戰。
+“끈기”는 멈추지 않고 계속 움직이는 시계처럼 지속적으로 유지해야 하고, “열정”은 마라톤 선수처럼 목표를 향해 꾸준히 달리는 것입니다.
 
 #### Tech Stack
 ![HTML](https://img.shields.io/badge/html-F15128?style=for-the-badge&logo=html&logoColor=white)
