@@ -11,9 +11,7 @@ const aboutMe = {
 }
 ```
 
-
-영어, 중국어, 한국어를 능숙하게 구사하는 프론트엔드 개발자입니다. <br />
-“끈기”는 멈추지 않고 계속 움직이는 시계처럼 지속적으로 유지해야 하고, “열정”은 마라톤 선수처럼 목표를 향해 꾸준히 달리는 것입니다.
+“성실함”는 멈추지 않고 계속 움직이는 시계처럼 지속적으로 유지해야 하고, “끈기”은 마라톤 선수처럼 목표를 향해 꾸준히 달리는 것입니다.
 
 #### Tech Stack
 ![HTML](https://img.shields.io/badge/html-F15128?style=for-the-badge&logo=html&logoColor=white)
